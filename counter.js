@@ -24,6 +24,4 @@ function createCounter(n) {
   
   console.log(myCounter()); // Output: 10
   console.log(myCounter()); // Output: 11
-  console.log(myCounter()); // Output: 12
-  console.log(myCounter()); // Output: 13
-  console.log(myCounter()); // Output: 13
+  
